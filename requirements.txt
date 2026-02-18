@@ -1,0 +1,18 @@
+# Python Environment Dependencies for Autonomous Smart-Escape Rover Simulation
+
+# Core Simulation
+pygame==2.6.1
+
+# Math and Matrices
+numpy>=1.24.0
+
+# Deep Learning / Reinforcement Learning (DQN)
+torch>=2.0.0 
+# Note: Swap 'torch' with 'tensorflow' if your AI uses TensorFlow
+
+# Hardware Communication (Bluetooth/Serial Bridge)
+pyserial>=3.5
+
+# Data Visualization (Optional for graphing rewards)
+matplotlib>=3.7.0
+
