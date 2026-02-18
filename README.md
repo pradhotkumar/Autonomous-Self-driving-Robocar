@@ -57,4 +57,4 @@ This hardware and base logic serve as a foundation for implementing higher-level
 * **PID Control:** Implementing Proportional-Integral-Derivative control for smoother, curved trajectories rather than stop-and-spin turning.
 
 ---
-*Developed by PARVEEN KUMAR DHAMI,POOJA UMESH HINDULE, Pradhyot Kumar*
+*Developed by PARVEEN KUMAR DHAMI,POOJA UMESH HINDULE, PRADHYOT KUMAR*
