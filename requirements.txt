@@ -16,3 +16,4 @@ pyserial>=3.5
 # Data Visualization (Optional for graphing rewards)
 matplotlib>=3.7.0
 
+*by Praveen Kumar Dhami*
